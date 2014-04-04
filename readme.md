@@ -9,7 +9,7 @@ providing access to authenticated encryption modes such as GCM.
 
     $ cat .buildpacks
     https://github.com/heroku/heroku-buildpack-ruby.git
-    https://github.com/gtank/ossl-buildpack.git
+    https://github.com/elaser/ossl-buildpack.git
 
 
 The binaries referenced in bin/compile were produced with Heroku anvil from the
